@@ -27,3 +27,4 @@ lab:
 16. **Wait at least 3 hours before using the CI/CD capabilities** so that the new settings are reflected in the back end. Otherwise, you will still see the message *"This agent is not running because you have reached the maximum number of requests…"*.
 17. OPTIONAL: you can validate this new setting has been successfully applied by creating and triggering a build pipeline. To do this either talk to the instructor or create a demo project into the newly created organization with billing enabled, using [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net).
     
+      
